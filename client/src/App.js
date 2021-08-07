@@ -1,7 +1,9 @@
+import PostCreate from "./PostCreate";
 
 function App() {
   return (
-    <div>
+    <div className="container">
+    <PostCreate/>
     post app
       
     </div>
